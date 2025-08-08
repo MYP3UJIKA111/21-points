@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rgz:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rgz_jar</output-path>
+    <root id="archive" name="rgz.jar">
+      <element id="module-output" name="rgz" />
+    </root>
+  </artifact>
+</component>
